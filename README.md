@@ -8,4 +8,4 @@ This is a evaluation project of a Coursera course. I extracted essential economi
 **Libraries:** pandas, bokeh
 
 ##
-![alt text](https://github.com/auweiting/Factory_and_pollution_project/blob/master/bokeh_plot.png "Dashboard")
+![alt text](https://github.com/auweiting/Economic_data_project/blob/master/bokeh_plot.png "Dashboard")
