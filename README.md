@@ -6,3 +6,6 @@ This is a evaluation project of a Coursera course. I extracted essential economi
 **Language:** Python  
 **Environment:** IPython - Jupyter Notebook  
 **Libraries:** pandas, bokeh
+
+##
+![alt text](https://github.com/auweiting/Factory_and_pollution_project/blob/master/bokeh_plot.png "Dashboard")
